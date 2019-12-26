@@ -1,0 +1,2 @@
+Now the file has been removed and i want to verify this and i have succeded because there i have checked that file is not going into smart git folder
+this is for the practice purpose of ignore
